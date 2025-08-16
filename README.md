@@ -40,16 +40,16 @@ Analytics workflow follows three stages:
 
 ```bash
 sql-data-analytics-project/
-├─ datasets/
-│  └─ csv-files/        # CSV exports from Gold layer
+├─ 📂datasets/
+│  └─ 📂csv-files/        # CSV exports from Gold layer
 │     ├─ bronze.*.csv   # Raw CRM & ERP data
 │     ├─ silver.*.csv   # Transformed & cleaned data
 │     ├─ gold.*.csv     # Final dimensional models & facts
 │     └─ reports.csv    # Final business reports
-├─ docs/
+├─ 📂docs/
 │  ├─ Analytics_Project_Roadmap.jpg
 │  └─ DWH_Analytics_Overview.png
-├─ scripts/
+├─ 📂scripts/
 │  ├─ 01_database_exploration.sql
 │  ├─ 05_magnitude_analysis.sql
 │  ├─ 06_ranking_analysis.sql
