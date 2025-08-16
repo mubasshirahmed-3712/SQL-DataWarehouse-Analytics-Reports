@@ -136,7 +136,19 @@ Raw Data → Data Warehouse → Analytics → Business Insights & Reports
 
 ## 👨‍💻 Author  
 
-**Mubasshir Ahmed**  
-- 📊 Aspiring Data Scientist | SQL & Data Analytics Enthusiast  
-- 💡 Experienced in ETL, Data Warehousing, and Advanced SQL Reporting  
-- 🌐 [GitHub](https://github.com/mubasshirahmed-3712) | [LinkedIn](https://www.linkedin.com/in/mubasshirahmed3712/)  
+
+Hi! I’m **Mubasshir Ahmed**, a Data Science & GenAI enthusiast with expertise in **SQL, ETL, Python, and ML**.  
+I build **end-to-end pipelines and analytics solutions** that turn raw data into actionable insights.  
+
+🎯 Career Vision: Data Scientist, AI Engineer, or GenAI Developer focusing on **scalable, intelligent solutions**.
+
+---
+
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubasshir3712/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mubasshirahmed-3712)  
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/SQL-DataWarehouse-ETL-Project-250eeb980be5801ea338d7de71c65c45)
+
+---
